@@ -1,8 +1,9 @@
 package controllers;
 
-import models.Member;
 import play.Logger;
 import play.mvc.Controller;
+
+import models.Member;
 
 public class Accounts extends Controller
 {
